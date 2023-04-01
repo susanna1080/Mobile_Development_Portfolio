@@ -12,7 +12,7 @@ Milestones: (the most recent one is at the Top)
 
 #3 I am capable of creating an interactive UserInterface of ...
 
-  "Dice App"(When tapped, the Dice number changes.)
+  "Dice App"(When tapped, the Dice number changes.)https://github.com/susanna1080/Dice_changer.git
 
   "Magic 8 Ball App"(When tapped, the Magic 8 Balls answer changes)
 .
