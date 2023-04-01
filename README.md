@@ -17,6 +17,10 @@ Milestones: (the most recent one is at the Top)
 .
 
 #2 I am capable of creating simple Layouts including the use of Icons, 
+   
+   Contact Card App
+   https://github.com/susanna1080/my_very_own_contact_card.git
+  
 
 
 #1 I am capable of creating a Flutter App with Text, Appbar, Images and a changed Icon.
