@@ -10,11 +10,11 @@ Milestones: (the most recent one is at the Top)
 
 
 #3 I am capable of creating an interactive UserInterface of ...
-
+.
 ... a "Dice App"(When tapped, the Dice number changes.)
-
+.
 ... a "Magic 8 Ball App"(When tapped, the Magic 8 Balls answer changes)
-
+.
 
 #2 I am capable of creating simple Layouts including the use of Icons, 
 
